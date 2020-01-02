@@ -13,5 +13,5 @@ In order to run the project you need to clone it, and use the following command:
 In addition, you should provide a txt file for the program to interpret, and an xml file with values to the FlightGear simulator.
 
 # Github link
-[Our Project](https://github.com)
+[Our Project]https://github.com/amitkoz/FlightGearSimulator.git
 
