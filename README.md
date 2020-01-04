@@ -5,8 +5,8 @@ Our project sends data to the FlightGear Simulator, as a server, while also rece
 Our target was to write an interpreter (convert a text file into a running program), that will enable to control the FlightGear.
 
 Before you can run FlightGear you will also need to download and install the following:
-‫‪[FlightGear](/‫‪http://home.flightgear.org)‬‬
-click for [Installation instructions](https://www.flightgear.org/download/main-program/)
+‫‪[Download](/‫‪http://home.flightgear.org)‬‬ FlightGear.
+(you can also click [here](https://www.flightgear.org/download/main-program/)  for installation instructions.
 
 
 # How to run the program?
