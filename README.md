@@ -6,7 +6,7 @@ Our target was to write an interpreter (convert a text file into a running progr
 
 Before you can run FlightGear you will also need to download and install the following:
 ‫‪[FlightGear](/‫‪http://home.flightgear.org)‬‬
-[Installation instructions](https://www.flightgear.org/download/main-program/)
+click for [Installation instructions](https://www.flightgear.org/download/main-program/)
 
 
 # How to run the program?
